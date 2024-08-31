@@ -1,4 +1,6 @@
-# WakeUpTimes App
+# EN.601.280 Classwork #2
+
+## WakeUpTimes App
  
 This is a simple web application that suggests "wake up" times based on calculating sleep cycles from when you fall asleep.
  
@@ -7,3 +9,5 @@ This is a simple web application that suggests "wake up" times based on calculat
 1. Clone this repository.
 2. Open the `index.html` in your browser.
 3. Click the calculate button!
+
+changes here rahhhh
